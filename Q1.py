@@ -45,3 +45,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# Do streamlit run Q1.py to run the app
